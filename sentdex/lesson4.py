@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 
-import numpy as np
+
 import cv2
 
 IMG_LOC = '../data/image1.jpg'
